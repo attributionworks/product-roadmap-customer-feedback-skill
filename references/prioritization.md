@@ -37,8 +37,8 @@ Abaisser la confiance si le thème vient surtout de questions orientées, d'un s
 
 - `commit` — problème important, stratégie et solution suffisamment établies, dépendances acceptables.
 - `validate` — opportunité plausible mais incertitude sur le problème, la solution, le segment ou la faisabilité.
-- `defer` — valeur possible mais dépendance, timing ou cible non prioritaire.
-- `park` — support faible, contradiction forte ou faible alignement.
+- `defer` — valeur possible mais dépendance, calendrier ou cible non prioritaire.
+- `park` — preuves faibles, contradiction forte ou faible alignement.
 
 Une forte demande client n'impose pas la décision `commit`. Une fonctionnalité peut rester en `validate` si la solution demandée est incertaine. Ces valeurs sont des identifiants techniques du format JSON.
 
