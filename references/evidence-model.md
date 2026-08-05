@@ -46,7 +46,7 @@ Chaque élément contient au minimum :
   "date": "2026-07-18",
   "client_org": "Acme",
   "participant_id": "P-01",
-  "role": "Head of SEA",
+  "role": "Responsable SEA",
   "speaker_kind": "customer",
   "transcript_locator": "section 12 / 00:18:30",
   "verbatim": "Je passe encore deux heures à recouper les chiffres.",
