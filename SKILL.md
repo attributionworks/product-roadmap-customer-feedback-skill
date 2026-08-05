@@ -11,7 +11,7 @@ Transformer des retours clients qualitatifs en décisions produit défendables. 
 
 - Lire [references/granola-intake.md](references/granola-intake.md) avant toute recherche ou extraction depuis Granola.
 - Lire [references/evidence-model.md](references/evidence-model.md) avant de découper, classer ou agréger les verbatims.
-- Lire [references/prioritization.md](references/prioritization.md) avant de scorer des opportunités ou d'ordonner une roadmap.
+- Lire [references/prioritization.md](references/prioritization.md) avant de noter des opportunités ou d'ordonner une feuille de route.
 - Lire [references/report-spec.md](references/report-spec.md) avant de créer le JSON canonique ou le document final.
 - Si le projet est Cockpit, lire aussi [references/cockpit-overlay.md](references/cockpit-overlay.md). Traiter ce contexte comme une hypothèse de cadrage à confirmer, jamais comme une preuve client.
 
