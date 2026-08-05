@@ -18,19 +18,19 @@ N'utiliser un segment que s'il est explicitement connu :
 - maturité des données et de l'IA ;
 - mono-canal vs multi-canal ;
 - utilisateur opérationnel vs décideur/acheteur ;
-- expertise : SEO, SEA, social ads, programmatique, affiliation, analytics/CRM.
+- expertise : SEO, SEA, publicité sur les réseaux sociaux, programmatique, affiliation, mesure/CRM.
 
 ## Taxonomie des fonctionnalités
 
 - `data-foundation` — connecteurs, fraîcheur, historique, qualité, droits, cloisonnement entre clients.
-- `identity-and-reconciliation` — taxonomie, mapping, identité, entités, métriques, déduplication.
+- `identity-and-reconciliation` — taxonomie, mise en correspondance, identité, entités, métriques, déduplication.
 - `semantic-layer` — définitions métier, dimensions, règles de calcul, contexte client.
 - `global-search-and-nlq` — recherche transverse, questions en langage naturel, navigation.
 - `dashboarding-and-reporting` — visualisations, exports, commentaires, alertes, partage.
 - `cross-channel-insights` — arbitrage de canaux, attribution, anomalies, recommandations.
-- `seo-geo-and-content` — audit SEO/GEO, clusters, knowledge graph, contenu.
-- `automation-and-agents` — workflows autonomes ou supervisés, activation, génération.
-- `collaboration-and-memory` — briefs, décisions, livrables, historique, gouvernance.
+- `seo-geo-and-content` — audit SEO/GEO, regroupements thématiques, graphe de connaissances, contenu.
+- `automation-and-agents` — processus autonomes ou supervisés, activation, génération.
+- `collaboration-and-memory` — cadrages, décisions, livrables, historique, gouvernance.
 - `admin-security-and-governance` — rôles, confidentialité, validation, auditabilité.
 - `agent-quality-and-ops` — évaluations, observabilité, coûts, retours et amélioration.
 
