@@ -1,0 +1,14 @@
+interface:
+  display_name: Prioriser les retours clients
+  short_description: Transformer les retours clients en feuille de route étayée
+  default_prompt: Utilise $prioriser-retours-clients pour analyser mes entretiens
+    clients et produire une feuille de route produit fondée sur des preuves traçables.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
