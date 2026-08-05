@@ -32,7 +32,7 @@ N'utiliser un segment que s'il est explicitement connu :
 - `automation-and-agents` — workflows autonomes ou supervisés, activation, génération.
 - `collaboration-and-memory` — briefs, décisions, livrables, historique, gouvernance.
 - `admin-security-and-governance` — rôles, confidentialité, validation, auditabilité.
-- `agent-quality-and-ops` — évaluations, observabilité, coûts, feedback et amélioration.
+- `agent-quality-and-ops` — évaluations, observabilité, coûts, retours et amélioration.
 
 Créer une nouvelle catégorie si un verbatim ne correspond pas proprement à cette taxonomie.
 
