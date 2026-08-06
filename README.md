@@ -81,7 +81,6 @@ python3 scripts/render_feedback_report.py \
 - [`references/evidence-model.md`](references/evidence-model.md) : modèle de preuve et règles d’agrégation ;
 - [`references/prioritization.md`](references/prioritization.md) : notation, confiance et arbitrage ;
 - [`references/report-spec.md`](references/report-spec.md) : schéma du JSON canonique et structure du rapport ;
-- [`references/cockpit-overlay.md`](references/cockpit-overlay.md) : exemple de cadrage spécialisé pour une plateforme marketing agentique ;
 - [`scripts/validate_analysis.py`](scripts/validate_analysis.py) : contrôle des IDs, liens de preuve et scores ;
 - [`scripts/render_feedback_report.py`](scripts/render_feedback_report.py) : génération du Markdown.
 
